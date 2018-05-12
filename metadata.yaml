@@ -1,0 +1,29 @@
+_repo: Hints-on-the-Use-and-Handling-of-Firearms-Generally-and-the-Revolver-in-Particular_33287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curling, H. Onslow
+    alias: Curling, Lieutenant H. Onslow
+    gutenberg_agent_id: '36311'
+    url: http://www.gutenberg.org/2009/agents/36311
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2010-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Revolvers'
+- !lcsh 'Firearms'
+title: Hints on the Use and Handling of Firearms Generally, and the Revolver in Particular
+url: http://www.gutenberg.org/ebooks/33287
